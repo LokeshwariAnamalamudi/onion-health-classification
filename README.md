@@ -2,6 +2,8 @@
 
 This project classifies onion images as healthy or unhealthy.
 
+Original dataset file : https://drive.google.com/file/d/17qu2CPXT2CNHWj99JAVLXA2x9LCGlq2y/view?usp=sharing
+
 ## Models Used
 
 - SimpleCNN
